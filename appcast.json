@@ -37,6 +37,6 @@
     "Dedicated GrowThatGarden-Updates feed repo",
     "Fix release.sh PATH so gh is found during publish"
   ],
-  "downloadURL": "https://github.com/kaoshotbeatz-ops/GrowThatGarden-Updates/releases",
+  "downloadURL": "https://github.com/omarhuertasllc-ops/GrowThatGarden-Updates/releases",
   "app": "GrowThatGarden"
 }
